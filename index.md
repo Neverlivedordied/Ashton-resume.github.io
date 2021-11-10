@@ -1,7 +1,7 @@
 ### Hi welcome to my resume page
 [mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
-### <p align="center">  SKILLS 
+ <p align="center"> ### SKILLS 
   </p>
 ## Hardware
 ●	PC, laptop, & mobile device component troubleshooting, assembly & upgrades
