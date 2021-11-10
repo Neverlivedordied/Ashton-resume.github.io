@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### Hi welcome to my resume page
+[mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
-You can use the [editor on GitHub](https://github.com/Neverlivedordied/https-neverlivedordied.github.io-resume.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### <p align="center">  SKILLS 
+  </p>
+## Hardware
+●	PC, laptop, & mobile device component troubleshooting, assembly & upgrades
+●	Hardware preventive maintenance
+●	Printer maintenance and troubleshooting
+●	Basic usage of a axiom cnc router 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Software
+●	Windows installation
+●	Linux installation
+●	macOS installation
+●	Windows configuration, troubleshooting & user management
+●	Windows, Linux, Mobile, and macOS operating systems
+●	Device driver installation and troubleshooting
+●	Virtualization , virtualbox
+●	basic cisco router configuration
+●	Anti virus installation 
+●	Basic video editing
+●	Basic CUT2d Pro for a cnc router
+●	Dolphin emu installation
+●	Salad / salad bin and nicehash miner  installation
+●	Website design
+●	Basic LMMS knowledge ( music creation)
 
-### Markdown
+### Networking
+●	Network copper terminations (RJ45, keystone & patch panel) and troubleshooting
+●	Network IP configuration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Awards
+●	National Technical Honor Society
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neverlivedordied/https-neverlivedordied.github.io-resume.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Certifications
+●	IT Fundamentals +
