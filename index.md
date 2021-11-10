@@ -1,7 +1,7 @@
 ### Hi welcome to my resume page 11/10/21
 [mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
- ###   SKILLS 
+ ### SKILLS 
   
 ## Hardware
 ●	PC, laptop, & mobile device component troubleshooting, assembly & upgrades
@@ -9,7 +9,7 @@
 ●	Printer maintenance and troubleshooting
 ●	Basic usage of a axiom cnc router 
 
-### Software
+## Software
 ●	Windows installation
 ●	Linux installation
 ●	macOS installation
@@ -26,12 +26,12 @@
 ●	Website design
 ●	Basic LMMS knowledge ( music creation)
 
-### Networking
+## Networking
 ●	Network copper terminations (RJ45, keystone & patch panel) and troubleshooting
 ●	Network IP configuration
 
-### Awards
+## Awards
 ●	National Technical Honor Society
 
-### Certifications
+## Certifications
 ●	IT Fundamentals +
