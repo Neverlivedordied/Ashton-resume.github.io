@@ -1,8 +1,8 @@
 ### Hi welcome to my resume page
 [mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
- ### SKILLS 
-  </p>
+ ###   SKILLS 
+  
 ## Hardware
 ●	PC, laptop, & mobile device component troubleshooting, assembly & upgrades
 ●	Hardware preventive maintenance
