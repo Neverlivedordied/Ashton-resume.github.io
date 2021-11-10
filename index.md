@@ -35,3 +35,8 @@
 
 ## Certifications
 ●	IT Fundamentals +
+
+## Extracurricular activities
+● FRC team member (student) for Titanium Titans #4467
+● live stream on twitch
+● Video recording/editing
