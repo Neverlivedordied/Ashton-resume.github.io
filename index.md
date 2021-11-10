@@ -1,4 +1,4 @@
-### Hi welcome to my resume page 11/10/21 12:53
+### Hi welcome to my resume page 11/10/21 1:15
 [mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
 ## SKILLS 
