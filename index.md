@@ -25,6 +25,7 @@
 ●	Salad / salad bin and nicehash miner  installation
 ●	Website design
 ●	Basic LMMS knowledge ( music creation)
+● Basic HTML knowledge
 
 ## Networking
 ●	Network copper terminations (RJ45, keystone & patch panel) and troubleshooting
@@ -42,4 +43,4 @@
 ● Video recording/editing
 
 ## Volunenteer work
-Titanium Titans workshops 2019-2020
+● Titanium Titans workshops 2019-2020
