@@ -40,3 +40,6 @@
 ● FRC team member (student) for Titanium Titans #4467
 ● live stream on twitch
 ● Video recording/editing
+
+## Volunenteer work
+Titanium Titans workshops 2019-2020
