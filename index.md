@@ -29,7 +29,8 @@
 
 ## Networking
 ●	Network copper terminations (RJ45, keystone & patch panel) and troubleshooting
-●	Network IP configuration
+●	Network IP configuration]
+● Fiber splicing and cleaning
 
 ## Awards
 ●	National Technical Honor Society
