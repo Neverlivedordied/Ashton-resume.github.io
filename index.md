@@ -23,7 +23,7 @@
 ●	Basic CUT2d Pro for a cnc router
 ●	Dolphin emu installation
 ●	Salad / salad bin and nicehash miner  installation
-●	Website design
+●	 basic Website design
 ●	Basic LMMS knowledge ( music creation)
 ● Basic HTML knowledge
 
@@ -37,6 +37,7 @@
 
 ## Certifications
 ●	IT Fundamentals +
+● OSHA 10-HOUR GENERAL INDUSTRY
 
 ## Extracurricular activities
 ● FRC team member (student) for Titanium Titans #4467
