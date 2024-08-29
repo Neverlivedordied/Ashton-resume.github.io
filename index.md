@@ -1,7 +1,7 @@
 ### Hi welcome to my resume page 
 [mainpage](https://neverlivedordied.github.io) [contact](https://neverlivedordied.github.io/contact.github.io)
 
-## RESUME IS STILL UNDER WORK 
+## RESUME IS STILL UNDER WORK AND HAS NOT BEEN UPDATED IN A WHILE
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
